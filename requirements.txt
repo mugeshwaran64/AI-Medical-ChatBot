@@ -1,15 +1,13 @@
-flask==3.1.1
-gunicorn==24.1.1
-python-dotenv==1.1.0
-pypdf==5.6.1
-sentence-transformers==4.1.0
-huggingface-hub==0.36.0
+flask
+gunicorn
+python-dotenv
+pypdf
+sentence-transformers
+huggingface-hub
 
-langchain==0.3.26
-langchain-community==0.3.26
-langchain-text-splitters==0.3.8
-langchain-groq==0.1.4
+langchain
+langchain-groq
+groq
 
-groq==0.37.1
-langchain-pinecone==0.2.8
-pinecone==7.3.0
+pinecone
+langchain-pinecone
