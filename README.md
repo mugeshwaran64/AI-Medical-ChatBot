@@ -57,3 +57,5 @@ MIT License. See `LICENSE` for details.
 - [Pinecone](https://www.pinecone.io)
 - [Hugging Face](https://huggingface.co)
 - [Groq](https://groq.com)
+
+938998269993.dkr.ecr.eu-north-1.amazonaws.com/medical-chatbot
